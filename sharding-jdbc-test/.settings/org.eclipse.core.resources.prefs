@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/META-INF/MasterSlaveShardingByUserId.yaml=UTF-8
+encoding//src/main/resources/META-INF/ShardingByUserId.yaml=UTF-8
+encoding//src/main/resources/META-INF/other/yamlShardingTable.yaml=UTF-8
